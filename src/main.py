@@ -1,4 +1,8 @@
+"""Module documentation"""
+
+
 def main():
+    """Function documentation"""
     print("Hello, World!")
 
 
